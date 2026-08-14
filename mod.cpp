@@ -1,0 +1,10 @@
+name = "Zellno Loading Screen";
+picture = "";
+logoSmall = "";
+logo = "";
+logoOver = "";
+tooltip = "Custom loading screen for Zellno DayZ Server";
+overview = "Original loading artwork for Zellno DayZ Server | Full PvE.";
+action = "https://github.com/Zellno/ZellnoLoadingScreen";
+author = "Zellno";
+version = "0.1.0";
