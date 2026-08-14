@@ -40,6 +40,23 @@ Example: `-mod="@OtherMods;@ZellnoLoadingScreen"`
 The private signing key is stored outside this repository. Generated PBOs,
 signatures, builds and private keys are excluded from Git.
 
+## Monetization Permission
+
+Zellno permits the use of Zellno Loading Screen on monetized DayZ servers,
+provided that the server operator is registered, approved and listed under
+Bohemia Interactive's DayZ Server Monetization program and complies with all
+applicable rules.
+
+This permission applies only to the original content provided by Zellno in
+Zellno Loading Screen. It does not grant permission to monetize DayZ itself
+or any third-party modification or content used alongside this mod.
+
+Server operators are responsible for obtaining any additional permissions
+required by the authors of other mods installed on their servers.
+
+- [Official monetization rules](https://www.bohemia.net/monetization)
+- [Approved DayZ servers](https://www.bohemia.net/monetization/approved/dayz)
+
 ## License
 
 The source code and documentation are licensed under the MIT License.

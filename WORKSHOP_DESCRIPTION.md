@@ -1,31 +1,51 @@
-# Zellno Loading Screen
+[h1]Zellno Loading Screen[/h1]
 
 Original custom loading screen created for Zellno DayZ Server | Full PvE.
 
-## Features
+[h2]Features[/h2]
 
-- Replaces the background displayed during connection and character loading.
-- Preserves the native DayZ logo, progress bar, hints, warnings and status messages.
-- Includes original Zellno artwork.
-- Does not change gameplay, damage, economy, AI, vehicles or player statistics.
-- Small independent addon with no framework dependencies.
-- Signed with the Zellno key.
+[list]
+[*]Replaces the background displayed during connection and character loading.
+[*]Preserves the native DayZ logo, progress bar, hints, warnings and status messages.
+[*]Includes original Zellno artwork.
+[*]Does not change gameplay, damage, economy, AI, vehicles or player statistics.
+[*]Small independent addon with no framework dependencies.
+[*]Signed with the Zellno key.
+[/list]
 
-## Compatibility
+[h2]Compatibility[/h2]
 
 Developed and tested with DayZ 1.29 on a Linux dedicated server and Linux client environment.
 
 Another mod that changes the same login or loading-screen classes may override this background. Loading Zellno Loading Screen last is recommended.
 
-## Installation
+[h2]Installation[/h2]
 
-This is a required client/server mod. Server owners must add it to the client-visible `-mod` parameter and install the included public key in the server keys directory.
+This is a required client/server mod. Server owners must add it to the client-visible -mod parameter and install the included public key in the server keys directory.
 
-## Source code
+[h2]Source code[/h2]
 
-https://github.com/Zellno/ZellnoLoadingScreen
+[url=https://github.com/Zellno/ZellnoLoadingScreen]
+GitHub — ZellnoLoadingScreen
+[/url]
 
-## License
+[h2]Monetization Permission[/h2]
+
+Zellno permits the use of Zellno Loading Screen on monetized DayZ servers, provided that the server operator is registered, approved and listed under Bohemia Interactive's DayZ Server Monetization program and complies with all applicable rules.
+
+This permission applies only to the original content provided by Zellno in Zellno Loading Screen. It does not grant permission to monetize DayZ itself or any third-party modification or content used alongside this mod.
+
+Server operators are responsible for obtaining any additional permissions required by the authors of other mods installed on their servers.
+
+[url=https://www.bohemia.net/monetization]
+Official monetization rules
+[/url]
+
+[url=https://www.bohemia.net/monetization/approved/dayz]
+Approved DayZ servers
+[/url]
+
+[h2]License[/h2]
 
 The source code and documentation are available under the repository license. The Zellno loading-screen artwork, PNG image, EDDS texture and visual derivatives remain all rights reserved by Zellno.
 
