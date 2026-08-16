@@ -29,6 +29,18 @@ This is a required client/server mod. Server owners must add it to the client-vi
 GitHub — ZellnoLoadingScreen
 [/url]
 
+[h2]Artwork and Brand Usage[/h2]
+
+Server operators and players may download and use the unmodified official Zellno Loading Screen Workshop item for its intended purpose.
+
+This permission does not allow anyone to extract, copy, reuse, modify, reupload or redistribute the artwork, PNG image, EDDS texture or visual derivatives in another mod, package, server brand or publication. It also does not allow removal or replacement of the Zellno branding, use of the assets to impersonate Zellno, or presentation of another project or server as the original or official Zellno DayZ Server.
+
+No rights to the Zellno name, identity or branding are granted. Any use outside the unmodified official Workshop item requires prior written permission from Zellno. Source-code permissions remain governed separately by the MIT License.
+
+[url=https://github.com/Zellno/ZellnoLoadingScreen/blob/main/PROVENANCE.md]
+Provenance record and cryptographic identifiers
+[/url]
+
 [h2]Monetization Permission[/h2]
 
 Zellno permits the use of Zellno Loading Screen on monetized DayZ servers, provided that the server operator is registered, approved and listed under Bohemia Interactive's DayZ Server Monetization program and complies with all applicable rules.
