@@ -35,6 +35,8 @@ for required in \
     "$PROJECT_DIR/mod.cpp" \
     "$PROJECT_DIR/meta.cpp" \
     "$PROJECT_DIR/README.md" \
+    "$PROJECT_DIR/LICENSE" \
+    "$PROJECT_DIR/PROVENANCE.md" \
     "$FILEBANK" \
     "$BANKREV" \
     "$DSSIGNFILE" \
@@ -73,6 +75,8 @@ cp "$PUBLIC_KEY" "$BUILD_KEYS/Zellno.bikey"
 cp "$PROJECT_DIR/mod.cpp" "$BUILD_MOD/mod.cpp"
 cp "$PROJECT_DIR/meta.cpp" "$BUILD_MOD/meta.cpp"
 cp "$PROJECT_DIR/README.md" "$BUILD_MOD/README.md"
+cp "$PROJECT_DIR/LICENSE" "$BUILD_MOD/LICENSE"
+cp "$PROJECT_DIR/PROVENANCE.md" "$BUILD_MOD/PROVENANCE.md"
 
 SIGNATURE="$PBO.Zellno.bisign"
 
